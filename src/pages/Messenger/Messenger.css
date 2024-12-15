@@ -1,0 +1,11 @@
+.messenger-app {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.messenger-container {
+    display: flex;
+    flex: 1;
+    background-color: #e5ddd5;
+}
